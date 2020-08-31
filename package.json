@@ -25,6 +25,7 @@
   "homepage": "https://github.com/sanatChoubey/React-Date-Picker#readme",
   "dependencies": {
     "moment": "^2.27.0",
+    "react": "^16.13.1",
     "styled-components": "^5.1.1"
   }
 }
