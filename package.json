@@ -1,0 +1,30 @@
+{
+  "name": "react-date-range-picker",
+  "version": "1.0.0",
+  "description": "react date range picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanatChoubey/React-Date-Picker.git"
+  },
+  "keywords": [
+    "react-date-rangepicker",
+    "react",
+    "date",
+    "react-date",
+    "react-date-range-picker"
+  ],
+  "author": "sanatchoubey <sanat.choubey@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanatChoubey/React-Date-Picker/issues"
+  },
+  "homepage": "https://github.com/sanatChoubey/React-Date-Picker#readme",
+  "dependencies": {
+    "moment": "^2.27.0",
+    "styled-components": "^5.1.1"
+  }
+}
